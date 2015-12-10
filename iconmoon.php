@@ -11,7 +11,7 @@ class plgSystemIconmoon extends JPlugin {
 	}
 	function onBeforeCompileHead()	{
 		$document =& JFactory::getDocument();
-		$document->addStyleSheet(JURI::root(true)."/plugins/iconmoon/assets/font-awesome/css/font-awesome.min.css");
+		$document->addStyleSheet(JURI::root(true)."/plugins/iconmoon/assets/iconmoon/style.css");
 	}
 }
 ?>

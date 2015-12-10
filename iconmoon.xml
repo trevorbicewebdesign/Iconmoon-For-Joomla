@@ -46,7 +46,7 @@
 	<config>
         <fields name="params">
             <fieldset name="basic">
-				<field name="rumid" type="text" label="PT_RUMID_LABEL" description="PT_RUMID_DESC" />
+				
 			</fieldset>
 		</fields>
 	</config>
